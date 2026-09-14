@@ -33,11 +33,11 @@ The project uses a Random Forest classification model for fraud detection.
 
 ### Model Performance
 
-- Accuracy: 99.98%
-- Precision: 91.16%
-- Recall: 94.32%
-- F1-Score: 92.71%
-
+- Accuracy: 99.94%
+- Precision: 85.71%
+- Recall: 75.79%
+- F1-Score: 80.45%
+- ROC-AUC: 97.01%
 ## Project Structure
 
 ```
