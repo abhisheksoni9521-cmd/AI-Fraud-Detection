@@ -56,6 +56,7 @@ AI-Fraud-Detection/
 ```
 
 ## Dashboard
+![AI Fraud Detection Dashboard](screenshots/AI_Fraud_Detection_Dashboard.png)
 
 The Power BI dashboard provides interactive analysis of:
 
